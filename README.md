@@ -14,7 +14,4 @@ Estudante de Sistemas de informação 2/8.
 
 Estudando programação para aplicações WEB! 💻🌐
    
-## Linguagens mais utulizadas
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euuhebert&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
