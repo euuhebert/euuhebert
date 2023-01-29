@@ -1,6 +1,6 @@
 ### Olá! eu sou o Hebert Rocha 😁
 
-Estudante de Sistemas de informação 2/8.
+Estudante de Sistemas de informação 3/8.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hebert-rocha-16b90a249/)
 
