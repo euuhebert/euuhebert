@@ -4,11 +4,16 @@ Estudante de Sistemas de informação 3/8.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hebert-rocha-16b90a249/)
 
-
-
-![Hebert GitHub stats](https://github-readme-stats.vercel.app/api?username=euuhebert&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euuhebert&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<style>
+   width: 100px;
+   height: 100px;
+   display: inline-block;
+</style>
+<div>
+  <a href="https://github.com/euuhebert">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=euuhebert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euuhebert&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## Tecnologias que utilizo
 
