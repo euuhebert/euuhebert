@@ -21,6 +21,6 @@ Estudante de Sistemas de informação 3/8.
     <img align ="center" alt="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/><br>
 
 
-Estudando programação para aplicações WEB! 💻🌐
+Estudando programação para aplicações Back-End! 💻🌐
    
 
