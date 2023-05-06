@@ -15,12 +15,11 @@ Estudante de Sistemas de informação 3/8.
 ## Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
-    <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="50" height="50">
     <img align ="center" alt ="Python"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
     <img align ="center" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="50" /> <img align ="center" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>  
     <img align ="center" alt="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/><br>
 
 
-Estudando programação para aplicações Back-End! 💻🌐
+Estudando programação para aplicações Front-End! 💻🌐
    
 
