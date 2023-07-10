@@ -1,8 +1,11 @@
 ### Olá! eu sou o Hebert Rocha 😁
 
-Estudante de Sistemas de informação 3/8.
+Estudante de Sistemas de informação 4/8.
+
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hebert-rocha-16b90a249/)
+
 
 
 
@@ -20,6 +23,6 @@ Estudante de Sistemas de informação 3/8.
     <img align ="center" alt="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/><br>
 
 
-Estudando programação para aplicações Front-End! 💻🌐
+Estudando programação para aplicações WEB! 💻🌐
    
 
