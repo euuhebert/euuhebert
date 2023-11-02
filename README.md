@@ -5,6 +5,8 @@ Estudante de Sistemas de informação 4/8.
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hebert-rocha-16b90a249/)
+[![DIO](https://www.dio.me/users/hebertsrocha78)
+
 
 
 
