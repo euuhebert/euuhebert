@@ -26,7 +26,7 @@ Estou cursando Sistemas de Informação e tenho paixão por tecnologia. Estou se
 - 🎉 Curiosidade: Sou apaixonado por resolver problemas e criar soluções inovadoras.
 
 ### 🚀 Minha Configuração de Desenvolvimento
-<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/VS%20Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-555555?style=flat-square&logo=intellij-idea&logoColor=000000"> <img src="https://img.shields.io/badge/Replit-555555?style=flat-square&logo=replit&logoColor=white"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
+<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/VS%20Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-555555?style=flat-square&logo=intellij-idea&logoColor=000000"> <img src="https://img.shields.io/badge/Replit-555555?style=flat-square&logo=replit&logoColor=white"> 
 
 ### ⚙️ Algumas Ferramentas e Tecnologias que Utilizo
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></code>
