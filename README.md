@@ -39,4 +39,5 @@ Estou cursando Sistemas de Informação e tenho paixão por tecnologia. Estou se
 
 
 ### 🚀 Estatísticas Rápidas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euuhebert&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/euuhebert/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euuhebert&layout=compact&theme=dracula)](https://github.com/euuhebert)
+
