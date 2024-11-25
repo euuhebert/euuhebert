@@ -1,7 +1,7 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 <h1>Olá! Eu sou o Hebert Rocha 😁</h1>
 
-Meu nome é Hebert Rocha, sou baiano e atualmente resido em São Paulo-SP. Estou cursando Sistemas de Informação desde 2022. Tenho paixão por tecnologia e por resolver problemas, e estou sempre buscando me atualizar e aprender novas habilidades. Tenho conhecimentos em linguagens de programação e marcação como C#, Java, Python, HTML, CSS, e também de ferramentas como Git, SQL e Excel. Com esses conhecimentos, desenvolvi alguns projetos que me ajudaram a aprimorar as minhas habilidades e a demonstrar o meu potencial.
+Profissional especializado em soluções de backup, atuando na implementação, monitoramento e manutenção de sistemas críticos para garantir a integridade e segurança dos dados corporativos. Experiência em ambientes on-premise e multi-cloud, assegurando alta disponibilidade e conformidade com as melhores práticas de segurança da informação.
 
 ### 📬 Encontre-me em
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/euuhebert/) 
